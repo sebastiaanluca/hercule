@@ -2,7 +2,6 @@
 # A simple markdown transclusion tool
 # Author: james ramsay
 
-blanket = require 'blanket'
 md = require './transclude'
 dashdash = require 'dashdash'
 fs = require 'fs'
